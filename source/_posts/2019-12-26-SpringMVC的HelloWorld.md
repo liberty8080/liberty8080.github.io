@@ -1,5 +1,4 @@
 ---
-
 layout:     post   				    # 使用的布局（不需要改）
 title:      SpringMVC的helloworld				# 标题 
 subtitle:   一切都是对象 #副标题
@@ -8,9 +7,9 @@ author:     liberty 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    -Spring
-    -Springmvc
-	-Java
+    - Spring
+    - Springmvc
+    - Java
 ---
 
 ## SpringMVC的HelloWorld
