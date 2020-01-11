@@ -9,7 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Spring
     - Springmvc
-    - Java
+    - java
 ---
 
 ## SpringMVC的HelloWorld
