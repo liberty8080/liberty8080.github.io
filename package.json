@@ -14,7 +14,7 @@
   "dependencies": {
     "add": "^2.0.6",
     "cheerio": "^0.22.0",
-    "hexo": "^4.0.0",
+    "hexo": "^4.2.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^1.0.0",
